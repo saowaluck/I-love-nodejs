@@ -1,0 +1,26 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "get start nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saowaluck/I-love-nodejs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saowaluck/I-love-nodejs/issues"
+  },
+  "homepage": "https://github.com/saowaluck/I-love-nodejs#readme",
+  "dependencies": {
+    "ejs": "^2.5.7",
+    "express": "^4.16.2",
+    "express-es6-template-engine": "^2.0.2",
+    "nodemon": "^1.14.12",
+    "pug": "^2.0.0-rc.4"
+  }
+}
